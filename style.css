@@ -2,6 +2,9 @@ h1 {
     color: #333;
     font-size: 2em;
     text-align: center;
+    margin-top: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    font-family: 'Courier New', Courier, monospace;
 }
 body {
     font-family: Arial, sans-serif;
