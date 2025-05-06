@@ -17,3 +17,10 @@ btn{
     border-radius: 5px;
     cursor: pointer;
 }
+.btn2{
+    padding-bottom: 0%;
+    padding-top: 0%;
+    color: aqua;
+    background-color: aqua;
+
+}
