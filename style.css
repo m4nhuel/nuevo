@@ -22,15 +22,15 @@ btn{
     transition: 0.3s;
 
 }
+.btn:hover {
+    background-color: #555;
+    color: white;
+    transform: scale(1.05);
+}
 .btn2{
     padding-bottom: 0%;
     padding-top: 0%;
     color: aqua;
     background-color: aqua;
 
-}
-.btn:hover {
-    background-color: #555;
-    color: white;
-    transform: scale(1.05);
 }
