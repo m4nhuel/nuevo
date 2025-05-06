@@ -16,6 +16,8 @@ btn{
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    transition: 0.3s;
+
 }
 .btn2{
     padding-bottom: 0%;
@@ -23,4 +25,9 @@ btn{
     color: aqua;
     background-color: aqua;
 
+}
+.btn:hover {
+    background-color: #555;
+    color: white;
+    transform: scale(1.05);
 }
